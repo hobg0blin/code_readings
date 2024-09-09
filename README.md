@@ -2,7 +2,10 @@
 
 Work in progress as I compile all the links I've bookmarked, downloaded, etc. over the years. 
 
-This is a repository of links and files that I have either found useful in my attempts to become a "1x programmer", or am saving for future reference. There are too many things to learn and I will probably forget most of them, and this is in no way a comprehensive list, but maybe it will be useful to someone out there.
+This is a repository of links and files that I have either found useful in my attempts to become a "1x programmer", or am saving for future reference. 
+
+### Some thoughts on "becoming a better programmer
+I have been writing code professionally since 2016. When I started, I kind of just followed what they taught me in my bootcamp, and then whatever people on Hacker News told me to do. Eventually I learned enough to kind of understand what I was doing, and since then I've followed no particular pattern in my "code journey". There are too many things to learn and I will probably forget most of them. Any attempt at searching "how to become a better programmer" quickly becomes overhwelming, there are a hundred different languages/design patterns/concepts to learn, and no matter how much time you spend reading about code there will be someone out there who knows more than you. Keeping relevant is a Sisyphean task. Anyone telling you to follow XYZ steps to become a good programmer is probably just operating off of confirmation bias: there's no one right way that works for anyone, and the path to becoming, I dunno, someone who writes compilers vs. a really good front-end developer will be wildly different. I spend most of my time completely mystified by what I'm doing. The only way to not be totally paralyzed I've found is to just find things that make sense and are interesting to me and go from there. This has made me a jack of all trades and master of none, but I've learned some cool stuff and am still getting paid to write code, so I assume I'm doing something right. With that attitude in mind, this is not a structured guide, nor a comprehensive list, but just things that I, personally, think are cool or useful. Maybe you'll find it useful too.
 
 ## Table of Contents
 
