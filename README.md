@@ -6,8 +6,8 @@ This is a repository of links and files that I have either found useful or am sa
 
 ## Table of Contents
 
-[Testing](#testing)
-[Vim](#vim)
+- [Testing](#testing)
+- [Vim](#vim)
 
 ## Testing
 - [The Well-Maintained Test](https://adamj.eu/tech/2021/11/04/the-well-maintained-test/)
