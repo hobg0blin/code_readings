@@ -27,7 +27,7 @@ I have only had one job where I actually had to write tests (as a research assis
 
 ## Vim
 
-I am not what I would consider a Vim power user, but I have been using it daily for years. You probably don't *need* to learn Vim to be a good programmer, but it's fucking cool and it *does* make you a faster programmer if you take the time to learn it.
+I am not what I would consider a Vim power user, but I have been using it daily for years. I used it in the terminal as my daily driver for most of that period, but more recently have been working with neovim for VSCode. You probably don't *need* to learn Vim to be a good programmer, but it's fucking cool and it *does* make you a faster programmer if you take the time to learn it.
 
 - [VSCode NeoVim Setup](https://ianchanning.wordpress.com/2023/02/21/vscode-neovim-setup/)
 - [Nvim Cheat Sheet](vim/nvim_cheatsheet.png)
