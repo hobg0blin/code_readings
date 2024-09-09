@@ -1,8 +1,8 @@
 # Become a Better Programmer In Ten Million Easy Steps
 
-Work in progress as I compile all the links I've bookmarked, downloaded, etc. over the years.
+Work in progress as I compile all the links I've bookmarked, downloaded, etc. over the years. 
 
-This is a repository of links and files that I have either found useful or am saving for future reference. There are too many things to learn and I will probably forget most of them, and this is in no way a comprehensive list, but maybe it will be useful to someone out there.
+This is a repository of links and files that I have either found useful in my attempts to become a "1x programmer", or am saving for future reference. There are too many things to learn and I will probably forget most of them, and this is in no way a comprehensive list, but maybe it will be useful to someone out there.
 
 ## Table of Contents
 
