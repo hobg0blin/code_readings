@@ -19,17 +19,27 @@ Because of all of this, I spend a lot of time a) feeling like an idiot and b) "f
 - [Python](#python)
 
 ## Testing
+
+I have only had one job where I actually had to write tests (as a research assistant in grad school), but I often fantasize about being someone who actually uses them.
+
 - [The Well-Maintained Test](https://adamj.eu/tech/2021/11/04/the-well-maintained-test/)
 - [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 ## Vim
+
+I am not what I would consider a Vim power user, but I have been using it daily for years. You probably don't *need* to learn Vim to be a good programmer, but I think it's fucking cool.
 
 - [VSCode NeoVim Setup](https://ianchanning.wordpress.com/2023/02/21/vscode-neovim-setup/)
 - [Nvim Cheat Sheet](vim/nvim_cheatsheet.png)
 - [Practical Vim](<vim/Practical Vim Edit Text at the Speed of Thought.pdf>)
 
 ## Frontend
+
+Frontend is an absolute unstable nightmare, but it's also probably the thing I've spent the most time being paid to do.
+
 [Going buildless: ES modules](https://modern-web.dev/guides/going-buildless/es-modules/)
 
 ## Python
+
+I like Python a lot.
 TK
