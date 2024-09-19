@@ -18,6 +18,9 @@ Because of all of this, I spend a lot of time a) feeling like an idiot and b) "f
 - [Frontend](#frontend)
 - [Python](#python)
 
+## General Programming Advice
+- [The grug-brained dev](https://grugbrain.dev/) - It's a bit of a cute conceit but all the advice in here is gold, and Carson made [HTMX](https://htmx.org) so he's doing something right.
+
 ## Testing
 
 I have only had one job where I actually had to write tests (as a research assistant in grad school), but I often fantasize about being someone who actually uses them.
