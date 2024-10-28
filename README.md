@@ -44,4 +44,6 @@ Frontend is an absolute unstable nightmare, but it's also probably the thing I'v
 ## Python
 
 I like Python a lot.
-TK
+
+- [PEP-0008](https://peps.python.org/pep-0008/#introduction) - Embarrassingly enough, I wrote Python for like 5 years before actually reading PEP 8. This is another one of those things that I probably wouldn't have understood early on in the learning process, but it's a pretty great place to start understanding Python's design philosophy.
+
