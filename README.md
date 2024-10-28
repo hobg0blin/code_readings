@@ -18,6 +18,9 @@ Because of all of this, I spend a lot of time a) feeling like an idiot and b) "f
 - [Frontend](#frontend)
 - [Python](#python)
 
+## General Programming Advice
+- [The grug-brained dev](https://grugbrain.dev/) - It's a bit of a cute conceit but all the advice in here is gold, and Carson made [HTMX](https://htmx.org) so he's doing something right.
+
 ## Testing
 
 I have only had one job where I actually had to write tests (as a research assistant in grad school), but I often fantasize about being someone who actually uses them.
@@ -27,7 +30,7 @@ I have only had one job where I actually had to write tests (as a research assis
 
 ## Vim
 
-I am not what I would consider a Vim power user, but I have been using it daily for years. You probably don't *need* to learn Vim to be a good programmer, but it's fucking cool and it *does* make you a faster programmer if you take the time to learn it.
+I am not what I would consider a Vim power user, but I have been using it daily for years. I used it in the terminal as my daily driver for most of that period, but more recently have been working with neovim for VSCode. You probably don't *need* to learn Vim to be a good programmer, but it's fucking cool and it *does* make you a faster programmer if you take the time to learn it.
 
 - [VSCode NeoVim Setup](https://ianchanning.wordpress.com/2023/02/21/vscode-neovim-setup/)
 - [Nvim Cheat Sheet](vim/nvim_cheatsheet.png)
